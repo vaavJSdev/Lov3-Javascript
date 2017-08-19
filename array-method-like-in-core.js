@@ -1,3 +1,6 @@
+// Here are the native array methods in a function like in core, for better understanding its functioning
+
+
 // forEach
 
 function forEach(array,action) {
