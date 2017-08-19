@@ -59,4 +59,3 @@ function some(array,action) {
         }
     }
 }
-// Some
